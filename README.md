@@ -1,5 +1,7 @@
 # 📊 Food Delivery Orders & ETA Logistics Analysis
 
+<img width="554" height="554" alt="Image" src="https://github.com/user-attachments/assets/970aa3a7-ab8f-456a-9d53-45942a320c24" />
+
 ## 📌 Project Overview
 
 This project analyzes a **50,000-record food delivery dataset using Microsoft Excel**.
