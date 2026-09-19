@@ -165,7 +165,6 @@ The Excel dashboard includes important logistics KPIs such as:
 
 **GitHub:** https://github.com/yusufgabsy-arch
 
-**LinkedIn:** Add your LinkedIn profile link
 
 ---
 
